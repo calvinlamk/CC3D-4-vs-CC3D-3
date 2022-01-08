@@ -1,0 +1,5 @@
+<Simulation version="4.2.5">
+   <XMLScript Type="XMLScript">Simulation/Base.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/Base.py</PythonScript>
+   <Resource Type="Python">Simulation/BaseSteppables.py</Resource>
+</Simulation>
