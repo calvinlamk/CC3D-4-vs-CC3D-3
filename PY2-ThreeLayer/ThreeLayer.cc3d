@@ -1,6 +1,0 @@
-<Simulation version="3.6.2">
-   <XMLScript Type="XMLScript">Simulation/ELUGM.xml</XMLScript>
-   <PythonScript Type="PythonScript">Simulation/ELUGM.py</PythonScript>
-   <Resource Type="Python">Simulation/ELUGMSteppables.py</Resource>
-   <ParameterScan Type="ParameterScan">Simulation/ParameterScanSpecs.xml</ParameterScan>
-</Simulation>
